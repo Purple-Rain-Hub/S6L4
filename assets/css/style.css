@@ -1,0 +1,29 @@
+/* piccolo reset */
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html, body{
+    font-family: "Inter", sans-serif;
+}
+
+/* header */
+
+.hero{
+    background-color: #7550FE;
+}
+
+.hero h2{
+    color: #BCA8FF;
+}
+
+.greenBtn{
+background-color: #1ACB98;
+}
+
+.bgOrange{
+    background-color: #FFEEDA;
+}
